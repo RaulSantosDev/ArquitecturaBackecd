@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fKL+VWz2Y5qYyoOHnBY1TRxNdU26eSYyKgX3mqOQ+NY2FHF6k0S879F8DIC1VZk1tqjqSjyVryNdFn6hp7VQ5Q==",
+  "dgSpecHash": "eD4V6sCE5WJHacYHfDDo5oUfEQrAE3EqNEkSplTdMaGjqD0W0PiSA3mbdYHVvDsBJjwe9oL4Z3V6HEH0LGJt4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReviewUnitTest\\CameraReviewUnitTests.csproj",
+  "projectFilePath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\clases\\Clase-21\\CameraReview\\CameraReviewUnitTest\\CameraReviewUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pucky\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\pucky\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

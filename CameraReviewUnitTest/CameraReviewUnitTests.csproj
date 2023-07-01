@@ -16,7 +16,7 @@
 
   <ItemGroup>
 	  <!--Esta estructura es para poder añadir otros proyectos al proyecto principal y encontrarlos todos los test en un unico proyecto-->
-    <Folder Include="CameraReview\Review\" />
+    <Folder Include="CameraReview\Product\Lens\" />
     <Folder Include="CameraReview\Product\Camera\" />
   </ItemGroup>
 

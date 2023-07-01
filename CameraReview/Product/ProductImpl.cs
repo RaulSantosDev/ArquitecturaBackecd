@@ -17,7 +17,7 @@ namespace CameraReview.Product
         public string GetContent()
         {
             throw new NotImplementedException();
-            //return ""; Si lo usamos de esta forma nuestro test va a funcionar porque ya no regresará vacíos.
+           
         }
     }
 }

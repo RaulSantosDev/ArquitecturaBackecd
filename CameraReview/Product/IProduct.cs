@@ -12,7 +12,6 @@ namespace CamaraReview.Product
         public string Manufacturer { get; set; }
 
         public string SKU { get; set; }
-
       
         public List<Feature> Features { get; set; }
 

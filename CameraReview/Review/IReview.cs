@@ -15,5 +15,6 @@ namespace CamaraReview.Review
         public List<string> Autor { get; set; }
 
         public IProduct Product { get; set; }
+
     }
 }

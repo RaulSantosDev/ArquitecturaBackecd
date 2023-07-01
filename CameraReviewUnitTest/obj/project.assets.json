@@ -6854,11 +6854,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReviewUnitTest\\CameraReviewUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\clases\\Clase-21\\CameraReview\\CameraReviewUnitTest\\CameraReviewUnitTests.csproj",
       "projectName": "CameraReviewUnitTests",
-      "projectPath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReviewUnitTest\\CameraReviewUnitTests.csproj",
+      "projectPath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\clases\\Clase-21\\CameraReview\\CameraReviewUnitTest\\CameraReviewUnitTests.csproj",
       "packagesPath": "C:\\Users\\pucky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReviewUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\clases\\Clase-21\\CameraReview\\CameraReviewUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pucky\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6875,8 +6875,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReview\\CameraReview.csproj": {
-              "projectPath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReview\\CameraReview.csproj"
+            "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\clases\\Clase-21\\CameraReview\\CameraReview\\CameraReview.csproj": {
+              "projectPath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\clases\\Clase-21\\CameraReview\\CameraReview\\CameraReview.csproj"
             }
           }
         }

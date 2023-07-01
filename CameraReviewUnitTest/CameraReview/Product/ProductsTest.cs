@@ -5,26 +5,18 @@ using System.Runtime.InteropServices;
 using System.Text;
 
 using NSubstitute;
-using CameraReview.Product;
 using CameraReview.Product.Camera;
+using CameraReview.Product.Lens;
 
 namespace CameraReviewUnitTests.CameraReview.Product
 {
-    
-
     [TestClass]    
     public class ProductTest 
     {
         [TestMethod]
-        public void CameraProduct_ShouldReturnContentThatIncludeFeatures_Success() 
-        {
-
-            //setup --> 
-            //var product = Substitute.For<IProduct>(); 
-            var type = "FullFrame";
-
-            //var cameraProduct = Substitute.For<ICamera>(); //Recordemos que el substitute.For hace la simulación de un objeto para que nuestro test funcione pero lo ideal es crear una instancia de nuestro objeto para que pueda funcionar como haremos mas abajo.
-
+        public void CameraAndLenProduct_ShouldReturnContentThatIncludeFeatures_Success() 
+        {                   
+                  
             var cameraProduct = new Camera
             {
                 Name = "Canon Eos",
@@ -32,14 +24,20 @@ namespace CameraReviewUnitTests.CameraReview.Product
                 CropFactor = 1
             };
 
-            //exec -->
-            var content = cameraProduct.GetContent();
+            var lenProduct = new Lens
+            {
+                Name = "Nuevo lente",
+                Valor = 9999,
+                Type = "Duradero"
+            };
+          
+            var contentCamera = cameraProduct.GetContent();
 
-            //assert -->
-            //Assert.IsNotNull(content);
+            var contentLen = lenProduct.GetContent();
 
-            Assert.IsTrue(!string.IsNullOrWhiteSpace(content), "Should return content but obtained null or white spaces.");
-            //Assert.IsTrue(content.Contains(Type));
+            Assert.IsTrue(!string.IsNullOrWhiteSpace(contentCamera), "Should return content but obtained null or white spaces.");
+
+            Assert.IsTrue(!string.IsNullOrWhiteSpace(contentLen), "Should return content but obtained null or white spaces.");
 
 
         }
