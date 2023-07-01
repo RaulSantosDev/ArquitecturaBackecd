@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReviewUnitTest\\CameraReviewUnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReviewUnitTest\\CameraReviewUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReviewUnitTest\\CameraReviewUnitTests.csproj",
+        "projectName": "CameraReviewUnitTests",
+        "projectPath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReviewUnitTest\\CameraReviewUnitTests.csproj",
+        "packagesPath": "C:\\Users\\pucky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReviewUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pucky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReview\\CameraReview.csproj": {
+                "projectPath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReview\\CameraReview.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReview\\CameraReview.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReview\\CameraReview.csproj",
+        "projectName": "CameraReview",
+        "projectPath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReview\\CameraReview.csproj",
+        "packagesPath": "C:\\Users\\pucky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pucky\\Escritorio\\PLATZI\\DESARROLLO-DE-SOFTWARE\\CURSO-PRACTICO-DE-ARQUITECTURA-BACKEND\\Proyecto\\Clase-20\\CameraReview\\CameraReview\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pucky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

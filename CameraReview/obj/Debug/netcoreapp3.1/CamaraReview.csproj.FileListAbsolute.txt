@@ -1,0 +1,14 @@
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\bin\Debug\netcoreapp3.1\CamaraReview.exe
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\bin\Debug\netcoreapp3.1\CamaraReview.deps.json
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\bin\Debug\netcoreapp3.1\CamaraReview.runtimeconfig.json
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\bin\Debug\netcoreapp3.1\CamaraReview.runtimeconfig.dev.json
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\bin\Debug\netcoreapp3.1\CamaraReview.dll
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\bin\Debug\netcoreapp3.1\CamaraReview.pdb
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\obj\Debug\netcoreapp3.1\CamaraReview.csproj.AssemblyReference.cache
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\obj\Debug\netcoreapp3.1\CamaraReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\obj\Debug\netcoreapp3.1\CamaraReview.AssemblyInfoInputs.cache
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\obj\Debug\netcoreapp3.1\CamaraReview.AssemblyInfo.cs
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\obj\Debug\netcoreapp3.1\CamaraReview.csproj.CoreCompileInputs.cache
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\obj\Debug\netcoreapp3.1\CamaraReview.dll
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\obj\Debug\netcoreapp3.1\CamaraReview.pdb
+C:\Users\pucky\source\repos\CamaraReview\CamaraReview\obj\Debug\netcoreapp3.1\CamaraReview.genruntimeconfig.cache
